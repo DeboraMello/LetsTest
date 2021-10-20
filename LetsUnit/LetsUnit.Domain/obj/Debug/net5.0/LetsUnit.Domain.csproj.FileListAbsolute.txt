@@ -1,0 +1,11 @@
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\bin\Debug\net5.0\LetsUnit.Domain.deps.json
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\bin\Debug\net5.0\LetsUnit.Domain.dll
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\bin\Debug\net5.0\ref\LetsUnit.Domain.dll
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\bin\Debug\net5.0\LetsUnit.Domain.pdb
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\obj\Debug\net5.0\LetsUnit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\obj\Debug\net5.0\LetsUnit.Domain.AssemblyInfoInputs.cache
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\obj\Debug\net5.0\LetsUnit.Domain.AssemblyInfo.cs
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\obj\Debug\net5.0\LetsUnit.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\obj\Debug\net5.0\LetsUnit.Domain.dll
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\obj\Debug\net5.0\ref\LetsUnit.Domain.dll
+C:\Repository\LetsTest\LetsUnit\LetsUnit.Domain\obj\Debug\net5.0\LetsUnit.Domain.pdb
